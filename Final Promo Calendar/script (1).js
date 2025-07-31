@@ -1,0 +1,1 @@
+(real JavaScript content from the <script> tag will go here)
